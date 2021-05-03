@@ -9,3 +9,5 @@ Essa ferramenta é pública e também pode ser editada e principalmente pode ter
 
 Um grande abraço do Mark662!
 
+Como usa-la? 
+Instale o gcc em seu sistema e após isso, compile o Repotaller.c utilizando o seguinte comando: gcc Repotaller.c -o Repotaller e após isso, dê um ./Repotaller
